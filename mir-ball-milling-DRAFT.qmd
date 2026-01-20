@@ -1,0 +1,24 @@
+# Ball milling samples for MIR
+
+## Drying samples:
+
+### Materials: 
+
+- Soil samples from "Ready for MIR" bin
+- Washed metal tins
+- Labeling tape and sharpie
+- Oven preheated to 36 degrees C (always below 40 degrees)
+- tablespoon
+
+1. Grab one sample bag, open, and mix the sample up thoroughly
+2. Scoop 4 tablespoons of soil into a dry washed metal tin, labeled with the sample ID
+3. Place the tin in the 36 degree oven for at least 24 hours
+4. Place the sample bag into the tray labeled "samples in progress"
+
+Day 2:
+
+1. grab tins full of samples from the oven, and place into dessicator
+    + this helps keep the sample dry during transportation
+2. Place the dessicator and tray labeled "samples in progress" onto a cart, and transport materials to the 5th floor MIR lab space
+3. Perform the ball milling protocol outlined in NRCS materials (ADD LATER)
+4. Return excess dried sample not ball milled to sample bag
