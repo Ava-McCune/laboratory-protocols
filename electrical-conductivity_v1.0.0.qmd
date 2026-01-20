@@ -24,6 +24,11 @@ Here is a link to a [blank data sheet](https://docs.google.com/spreadsheets/d/1P
 
 #### Calibrating the EC Reader
 
+::: callout-edit
+add information on what order to calibrate other 4 solutions in, and include a photo of the probe's
+buttons, with the relevant ones circled/labeled 
+:::
+
 -   Remove the cap from the EC probe.
 
 -   Dip probe in 84µS solution. Allow value to stabilize.
@@ -32,9 +37,13 @@ Here is a link to a [blank data sheet](https://docs.google.com/spreadsheets/d/1P
 
 -   After a moment the top right corner should stop flashing "CAL" and should switch to "MEAS" when ready to measure again. *Rinse the probe with DDI water and dry with a Kim wipe*.
 
--   Repeat with the other 4 solutions, rinsing and drying the probe between each.
+-   Repeat with the other 4 solutions, rinsing and drying the probe between each. 
 
 #### Measuring EC
+
+::: callout-edit
+add a note to rinse the probe thoroughly between each sample
+:::
 
 -   Vortex the sample for 30-60 seconds, shake upside down to disperse the sample from the bottom. 
 
